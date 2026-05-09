@@ -1,6 +1,6 @@
 ## Garrett Helms
 
-<!--
+
 
 
 Hello, GitHub! 👋
@@ -88,4 +88,4 @@ Feel free to explore my repositories and connect with me. Happy coding! 🚀
 
 
 - ⚡ Fun fact: I ran a podcast for the school for about a year where I interviewed professors and industry professionals.
--->
+
